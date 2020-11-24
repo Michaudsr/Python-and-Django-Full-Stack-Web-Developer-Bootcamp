@@ -1,0 +1,53 @@
+/*Choose a cool Font Text Scheme*/
+
+h1{
+  font-family: 'MedievalSharp', cursive;
+  text-align: center;
+}
+
+/*Choose a color palette from here:
+https://coolors.co/
+or create your own here:
+paletton.com/*/
+
+/*
+I chose:
+
+#247BA0
+#70C1B3
+#B2DBBF
+#F3FFBD
+#FF1654
+
+*/
+
+.art{
+  margin: auto;
+}
+
+
+td{
+  height: 200px;
+  padding: 100px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #03071e;
+}
+
+#two{
+  background-color: #370617;
+}
+
+#three{
+  background-color: #6a040f;
+}
+
+#four{
+  background-color: #9d0208;
+}
+
+#five{
+  background-color: #d00000;
+}

@@ -28,7 +28,7 @@ h2 {
 /*Task # 4
 Make all input boxes have a 2px solid dark red border (use rgb for this)*/
 input {
-    border: 2px solid rgb(54.5, 0, 0);
+    border: 2px solid rgb(105, 4, 4);
 }
 
 /*Task # 5
